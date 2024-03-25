@@ -7,39 +7,53 @@ The following simulations show, how the LSTMP, the A-star planner and the MIPDM 
 
 ### Scenario 1:
 LSTMP:
-<iframe width="1500" height="270"  src="https://www.youtube.com/embed/mjTDH2EOvLA?si=CvwAPcT6aIt0CYcw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="1500" height="270"  src="https://www.youtube.com/embed/mjTDH2EOvLA?si=CvwAPcT6aIt0CYcw?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 A-star:
-<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/O2Nng0nPqAg?si=6_XLSObHxZZizbBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/O2Nng0nPqAg?si=6_XLSObHxZZizbBn?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 MIPDM (N=15):
-<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/Gu-LHjxLqlg?si=oMPzSqDrZrGq8-zO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/Gu-LHjxLqlg?si=oMPzSqDrZrGq8-zO?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 MIPDM (N=20):
-<iframe  width="1500" height="270" src="https://www.youtube.com/embed/cOM4uULTNr8?si=aQcqcx6IzNLnjmu5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270" src="https://www.youtube.com/embed/cOM4uULTNr8?si=aQcqcx6IzNLnjmu5?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
+<br />
+<br />
 
 ### Scenario 2:
 LSTMP:
-<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/GlhYKSTqog0?si=olEU7QSo764VBDYy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/GlhYKSTqog0?si=olEU7QSo764VBDYy?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 A-star:
-<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/ymD1YXdINt0?si=a652u8PQ-1GGQSRL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/ymD1YXdINt0?si=a652u8PQ-1GGQSRL?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 MIPDM (N=15):
-<iframe  width="1500" height="270" src="https://www.youtube.com/embed/ODomLqjXqAw?si=Pr-9ZozTmNY9uYUC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270" src="https://www.youtube.com/embed/ODomLqjXqAw?si=Pr-9ZozTmNY9uYUC?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 MIPDM (N=20):
-<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/drMFY6f_KVk?si=Sv62XTeLdaS-YX8r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe  width="1500" height="270"  src="https://www.youtube.com/embed/drMFY6f_KVk?si=Sv62XTeLdaS-YX8r?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
+<br />
+<br />
 
 ## Interactive SUMO Simulations
 In the following, interactive sumo simulations based on CommonRoad scenarios are shown. The planner aims to safely reach the left-most lane.
-
+<br />
+<br />
 ### Scenario US101-22_1_I-1-1:
-<iframe width="560" height="560" src="https://www.youtube.com/embed/_fnJm23fv94?si=dTQFVWMB6A6T0DCd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/HDoraDz1txQ?si=upYQdJmU4sg_SlTP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="560" src="https://www.youtube.com/embed/yIo6oIsun4A?si=15_GNWhM03z5dyTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/nnrN-H4GBpQ?si=PgMGmysQphJwUYmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="560" height="560" src="https://www.youtube.com/embed/_fnJm23fv94?si=dTQFVWMB6A6T0DCd?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/HDoraDz1txQ?si=upYQdJmU4sg_SlTP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/yIo6oIsun4A?si=15_GNWhM03z5dyTY?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/nnrN-H4GBpQ?si=PgMGmysQphJwUYmC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<br />
+<br />
 ### Scenario DEU_Cologne-63_5_I-1:
-<iframe width="560" height="560" src="https://www.youtube.com/embed/M6Y-wlt4WGM?si=CIMY3IJiGPh0SKr1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/rgI9QYeyGkA?si=ySZYjF3rE-LiOve5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe width="560" height="560" src="https://www.youtube.com/embed/v1rjkmMVyNc?si=8z4oPueASl1Bq12c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/rA55UnTbd_o?si=4xvWMmJzhpxjKvzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/M6Y-wlt4WGM?si=CIMY3IJiGPh0SKr1?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/rgI9QYeyGkA?si=ySZYjF3rE-LiOve5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="560" src="https://www.youtube.com/embed/v1rjkmMVyNc?si=8z4oPueASl1Bq12c?rel=0&modestbranding=1&autoplay=1&loop=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe><iframe width="560" height="560" src="https://www.youtube.com/embed/rA55UnTbd_o?si=4xvWMmJzhpxjKvzQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
